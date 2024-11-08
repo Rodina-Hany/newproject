@@ -1,0 +1,26 @@
+h1{
+          color:black;
+          text-align: center;
+          width: 100%;
+          height: auto;
+          background-color:beige;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.card{
+     width:24%;
+     height:auto;
+     background-color: beige;
+     float:left;
+     margin:2px;
+}
+img{
+   width:100%;
+   height:auto;
+   background-color: beige;
+}
+button{
+    text-align:center;
+    width:35%;
+
+}
